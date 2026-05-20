@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.caltech.edu/" style="color:#FF6F00; font-family: Helvetica Neue;font-weight: bold;">Caltech</a>
+subtitle: >
+  <a href="https://www.caltech.edu/" style="color:#FF6F00; font-family: Helvetica Neue; font-weight: bold;">Caltech</a>
 profile:
   align: right
   image: head.jpg
