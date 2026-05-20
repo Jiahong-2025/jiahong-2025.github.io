@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Keck Laboratory Pasadena CA 91125<br>
+    <i class="fas fa-envelope"></i>
     jiahong@caltech.edu
 
 
