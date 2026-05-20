@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href="#" style="color:#FF6F00">California Institute of Technology</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: head.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Keck Laboratory</p>
