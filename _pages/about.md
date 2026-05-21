@@ -44,7 +44,7 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
 
 <div style="clear: both;"></div>
 
-<div style="background:#f5f5f5; padding:70px 0px; margin-top:80px; margin-bottom:60px;">
+<div style="background:#f5f5f5; padding:70px 50px; margin-top:80px; margin-bottom:60px;">
 
   <h1 style="font-size:3.2rem; font-weight:400; margin-bottom:10px;">
     Research
