@@ -50,12 +50,12 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
     Research
   </h1>
 
-  <p style="font-size:1.1rem; color:#333; margin-bottom:70px;">
+  <p style="font-size:1.1rem; color:#333; margin-bottom:35px;">
     A growing collection of my research projects.
   </p>
 
   <div style="border-top:1px solid #e5e5e5; position:relative; margin-bottom:30px;">
-    <span style="position:absolute; right:0; top:-42px; color:#e0e0e0; font-size:2.5rem; font-weight:300;">
+    <span style="position:absolute; right:0; top:-30px; color:#e0e0e0; font-size:2.5rem; font-weight:300;">
       work
     </span>
   </div>
@@ -63,7 +63,7 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
   <div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:30px;">
 
     <div style="background:white; box-shadow:0 3px 12px rgba(0,0,0,0.18); border-radius:4px; overflow:hidden;">
-      <img src="/assets/img/research1.jpg" style="width:100%; height:230px; object-fit:cover;">
+      <img src="/assets/img/1.jpg" style="width:100%; height:230px; object-fit:cover;">
       <div style="padding:28px;">
         <h2 style="font-size:2rem; font-weight:700; margin-bottom:15px;">
           Implantable Bioelectronics
@@ -75,7 +75,7 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
     </div>
 
     <div style="background:white; box-shadow:0 3px 12px rgba(0,0,0,0.18); border-radius:4px; overflow:hidden;">
-      <img src="/assets/img/research2.jpg" style="width:100%; height:230px; object-fit:cover;">
+      <img src="/assets/img/2.jpg" style="width:100%; height:230px; object-fit:cover;">
       <div style="padding:28px;">
         <h2 style="font-size:2rem; font-weight:700; margin-bottom:15px;">
           Wearable Biosensors
@@ -87,7 +87,7 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
     </div>
 
     <div style="background:white; box-shadow:0 3px 12px rgba(0,0,0,0.18); border-radius:4px; overflow:hidden;">
-      <img src="/assets/img/research3.jpg" style="width:100%; height:230px; object-fit:cover;">
+      <img src="/assets/img/3.jpg" style="width:100%; height:230px; object-fit:cover;">
       <div style="padding:28px;">
         <h2 style="font-size:2rem; font-weight:700; margin-bottom:15px;">
           In vivo Printing
