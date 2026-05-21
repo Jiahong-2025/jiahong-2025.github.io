@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+
 
 <h2 style="margin-top:0px; margin-bottom:25px; font-size:2rem; font-weight:700; line-height:1.2;">
 Soft Bioelectronics for Multimodal Sensing and Stimulation
@@ -42,4 +42,4 @@ I am a Ph.D. candidate in Medical Engineering at the California Institute of Tec
 My work integrates stretchable materials, electrochemical sensing, wireless electronics, and bioadhesive interfaces to develop next-generation biomedical devices for both wearable and implantable applications.
 </p>
 
-</span>
+
