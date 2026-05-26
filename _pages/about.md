@@ -145,12 +145,14 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
         box-shadow:0 4px 18px rgba(0,0,0,0.12);
       ">
 
-        <img src="/assets/img/2.jpg" style="
-          width:100%;
-          height:260px;
-          object-fit:cover;
-          display:block;
-        ">
+        <a href="/human-machine-interface/" style="display:block;">
+          <img src="/assets/img/HMI_cover.jpg" style="
+            width:100%;
+            height:260px;
+            object-fit:cover;
+            display:block;
+          ">
+        </a>
 
         <div style="padding:30px;">
 
@@ -160,7 +162,9 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
             line-height:1.15;
             margin-bottom:18px;
           ">
-            Wearable Biosensors
+            <a href="/human-machine-interface/" style="color:inherit; text-decoration:none;">
+              Human-machine Interface
+            </a>
           </h2>
 
           <p style="
@@ -216,4 +220,3 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
   </div>
 
 </section>
-
