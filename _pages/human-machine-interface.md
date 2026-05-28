@@ -19,7 +19,7 @@ nav: false
     Abstract
     </h2>
 
-    <p style="font-size:1.08rem; line-height:1.9; color:#333333; margin-bottom:24px;">
+    <p style="font-size:1.08rem; line-height:1.9; color:#333333; margin-bottom:24px; text-align:justify; hyphens:auto;">
     This work presents an AI-assisted, all-printed soft human-machine interface for robotic physicochemical sensing. The system combines printed electronic skins, machine-learning-based gesture decoding, robotic sensing of hazardous materials, and user feedback through electrical stimulation, enabling closed-loop interaction between a human operator and robotic platforms.
     </p>
 

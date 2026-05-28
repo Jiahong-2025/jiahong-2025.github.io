@@ -34,11 +34,11 @@ latest_posts:
 Soft Bioelectronics for Sensing and Stimulation
 </h2>
 
-<p style="font-size:1.08rem; line-height:1.9; color:#333333; margin-bottom:22px;">
+<p style="font-size:1.08rem; line-height:1.9; color:#333333; margin-bottom:22px; text-align:justify; hyphens:auto;">
 I am a Ph.D. candidate in Medical Engineering at the California Institute of Technology, advised by Prof. Wei Gao. My research focuses on soft bioelectronics, wearable and implantable biosensors, and multimodal interfaces for physiological monitoring and therapeutic stimulation.
 </p>
 
-<p style="font-size:1.08rem; line-height:1.9; color:#333333;">
+<p style="font-size:1.08rem; line-height:1.9; color:#333333; text-align:justify; hyphens:auto;">
 My work integrates stretchable materials, electrochemical sensing, wireless electronics, and bioadhesive interfaces to develop next-generation biomedical devices for both wearable and implantable applications.
 </p>
 
@@ -130,6 +130,8 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
             font-size:1rem;
             color:#666;
             line-height:1.7;
+            text-align:justify;
+            hyphens:auto;
           ">
             Stretchable and bioadhesive platforms for multimodal physiological monitoring and therapeutic stimulation.
           </p>
@@ -171,6 +173,8 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
             font-size:1rem;
             color:#666;
             line-height:1.7;
+            text-align:justify;
+            hyphens:auto;
           ">
             Soft electrochemical interfaces for continuous and noninvasive health monitoring.
           </p>
@@ -208,6 +212,8 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
             font-size:1rem;
             color:#666;
             line-height:1.7;
+            text-align:justify;
+            hyphens:auto;
           ">
             Ultrasound-assisted strategies for minimally invasive biofabrication and biomedical interfaces.
           </p>
